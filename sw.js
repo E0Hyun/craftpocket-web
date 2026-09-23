@@ -1,7 +1,7 @@
 'use strict';
 
 // Replaced by build_pwa.py. Only the generated public app files are cached.
-const VERSION = "3384e0d4a776b298a94d";
+const VERSION = "ef6be40f8567cde3bfc4";
 const PRECACHE_PATHS = [
   "./icons/apple-touch-icon.png",
   "./icons/icon-192.png",
