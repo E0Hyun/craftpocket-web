@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "주머니 제작대",
+  "short_name": "주머니 제작대",
+  "lang": "ko",
+  "description": "아이템을 만드는 법과 그 재료로 만드는 것을 찾아보는 Minecraft 조합법 사전",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f5ef",
+  "theme_color": "#216c4e",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
